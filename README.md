@@ -12,3 +12,9 @@
 ## key的作用？
 ## 前端安全问题有哪些？怎么预防xss？
 ## JSONP解决跨域问题的原理？
+## 浏览器缓存机制的理解?缓存的优先级？
+## let const 的实现原理？
+## NodeList如何遍历？
+## 用for循环实现map方法
+## 冒泡排序如何优化？
+## z-index属性 z-index:0 和z-index:auto的区别
